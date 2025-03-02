@@ -1,2 +1,4 @@
 #!bin/bash
-echo "this is code of GIT1"
+
+echo "hi , this changed version"
+c=a+b+c
