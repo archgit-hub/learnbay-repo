@@ -5,3 +5,5 @@ val=$(($num1+$num2))
 echo $val
 mul=$(($num1*$val))
 echo $mul
+sub=$((num1-$val))
+echo $sub
