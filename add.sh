@@ -7,3 +7,4 @@ mul=$(($num1*$val))
 echo $mul
 sub=$((num1-$val))
 echo $sub
+echo "done"
